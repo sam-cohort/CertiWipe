@@ -1,0 +1,14 @@
+/home/steath094/code/CertiWipe/bin/Debug/net8.0/CertiWipe
+/home/steath094/code/CertiWipe/bin/Debug/net8.0/CertiWipe.deps.json
+/home/steath094/code/CertiWipe/bin/Debug/net8.0/CertiWipe.runtimeconfig.json
+/home/steath094/code/CertiWipe/bin/Debug/net8.0/CertiWipe.dll
+/home/steath094/code/CertiWipe/bin/Debug/net8.0/CertiWipe.pdb
+/home/steath094/code/CertiWipe/obj/Debug/net8.0/CertiWipe.GeneratedMSBuildEditorConfig.editorconfig
+/home/steath094/code/CertiWipe/obj/Debug/net8.0/CertiWipe.AssemblyInfoInputs.cache
+/home/steath094/code/CertiWipe/obj/Debug/net8.0/CertiWipe.AssemblyInfo.cs
+/home/steath094/code/CertiWipe/obj/Debug/net8.0/CertiWipe.csproj.CoreCompileInputs.cache
+/home/steath094/code/CertiWipe/obj/Debug/net8.0/CertiWipe.dll
+/home/steath094/code/CertiWipe/obj/Debug/net8.0/refint/CertiWipe.dll
+/home/steath094/code/CertiWipe/obj/Debug/net8.0/CertiWipe.pdb
+/home/steath094/code/CertiWipe/obj/Debug/net8.0/CertiWipe.genruntimeconfig.cache
+/home/steath094/code/CertiWipe/obj/Debug/net8.0/ref/CertiWipe.dll
