@@ -1,0 +1,48 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio 2019 cache/options
+.vs/
+
+# Rider files
+.idea/
+
+# Mac files
+.DS_Store
+
+# Test files
+*.test.dll
+*.testsettings
+TestResult.xml
+
+# Code-based Test files
+*.coverage
+*.coveragexml
+
+# Packaging
+*.nuget.props
+*.nuget.targets
+*.nupkg
+*.snupkg
+
+# Environment files
+.env
